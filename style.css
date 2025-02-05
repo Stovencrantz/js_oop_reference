@@ -1,0 +1,21 @@
+.container {
+  width: 100vw;
+  height: 50vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.col-6 {
+  border-style: solid;
+  border-color: black;
+  border-radius: 1rem;
+  border-width: 0.5rem;
+  text-align: center;
+  width: 100%;
+}
+
+h1 {
+  padding: 2rem;
+}
